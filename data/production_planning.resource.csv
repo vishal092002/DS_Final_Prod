@@ -1,0 +1,4 @@
+resource,available_hours,hourly_cost
+machine_time,586,60
+assembly_time,773,300
+finishing_time,933,120
